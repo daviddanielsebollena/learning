@@ -35,7 +35,5 @@ func main() {
 
 	fmt.Printf("Pi is %g \n", math.Pi)
 
-	fmt.Println("Hello JL")
-
 	fmt.Scanln()
 }
